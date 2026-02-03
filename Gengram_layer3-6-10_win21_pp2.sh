@@ -120,7 +120,7 @@ LOGGING_ARGS=" \
     --tensorboard-dir "${CHECKPOINT_PATH}/tensorboard" \
     --no-load-optim \
     --no-load-rng \
-    --wandb-project ${WANDB_PROJECT:-"Genos"} \
+    --wandb-project ${WANDB_PROJECT:-"Gengram"} \
     --wandb-exp-name ${WANDB_NAME:-"Gengram"} \
     --moe-per-layer-logging \
     --log-throughput"
