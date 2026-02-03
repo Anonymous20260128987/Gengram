@@ -16,3 +16,12 @@ onelogger.err
 runs/
 /test_cases/
 **/dist/
+.github
+.gitlab
+.gitignore
+.DS_Store
+.gitlab-ci.yml
+.pre-commit-config.yaml
+.pylintrc
+.python-version
+.flake8
