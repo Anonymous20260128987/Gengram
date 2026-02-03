@@ -4,9 +4,6 @@
   <a href="https://huggingface.co/noname20260128/Gengram-10B-L3_6_10-W21-8k" target="_blank">
       <img alt="Hugging Face" src="https://img.shields.io/badge/🤗%20Hugging%20Face-Gengram%20-ffc107"/>
   </a>
-  <a href="https://github.com/BGI-HangzhouAI/Gengram/blob/main/LICENSE" target="_blank">
-      <img alt="License" src="https://img.shields.io/badge/📑%20License- Apache 2.0-FFC0CB"/> 
-  </a>
 
 </div>
 
