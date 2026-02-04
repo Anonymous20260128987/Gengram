@@ -79,7 +79,7 @@ DATA_ARGS=" \
     --dataloader-type cyclic \
     --tokenizer-type ${TOKENIZER_TYPE} \
     --tokenizer-model ${TOKENIZER_MODEL} \
-    --data-cache-path "/path/to/data_cache/ \
+    --data-cache-path /path/to/data_cache/ \
     --data-path /path/to/data/ \
     --split 1000,0,0 \
     --no-create-attention-mask-in-dataloader"
